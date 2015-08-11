@@ -1,0 +1,36 @@
+package euler;
+
+public class Problem39 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int count = 0;
+		int max = -1;
+		
+		for(int p=12;p<=1000;p++){
+			count = 0;
+			
+			for(int b=1;b<p;b++){
+				
+				for(int a=1;a<b;a++){
+					
+					int x = (int)(Math.pow(a, 2) + Math.pow(b, 2));
+					//System.out.println(x);
+					int y = (a+b);
+					int k = (p-y);
+					int z = (int)(Math.pow(k, 2));
+					//System.out.println(z);
+					if(x==z)
+						count++;
+				}
+			}
+			
+			//System.out.println("p="+p+"count="+count);
+			if(max<count)
+				max = count;
+		}
+		
+		System.out.println(max);
+	}
+
+}
