@@ -1,7 +1,11 @@
-package euler;
 import java.math.BigInteger;
 
-public class Problem20 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p048 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

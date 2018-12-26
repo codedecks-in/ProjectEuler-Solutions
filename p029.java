@@ -1,8 +1,12 @@
-package euler;
 import java.math.BigInteger;
 import java.util.*;
 
-public class Problem29 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p029 {
 	public static void main(String [] args){
 		long startTime = System.currentTimeMillis();
 		

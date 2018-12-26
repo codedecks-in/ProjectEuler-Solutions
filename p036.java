@@ -1,7 +1,11 @@
-package euler;
 import java.util.Arrays;
 
-public class Problem36 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p036 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

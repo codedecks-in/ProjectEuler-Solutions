@@ -1,6 +1,9 @@
-package euler;
-
-public class Problem39 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p039 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
