@@ -1,5 +1,8 @@
-package euler;
-
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
 public class Problem9 {
 
 	public static void main(String[] args) {

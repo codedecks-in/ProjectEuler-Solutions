@@ -1,9 +1,14 @@
-package euler;
+import java.util.*;
 
-public class Problem12 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p012 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		long startTime = System.currentTimeMillis();
 		int series = 0;
 		int s1 = 0;

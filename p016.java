@@ -1,10 +1,11 @@
-package euler;
-
 import java.math.BigInteger;
 
-//import java.lang.*;
-
-public class Problem16 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p016 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

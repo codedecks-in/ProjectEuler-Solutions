@@ -1,6 +1,11 @@
-package euler;
+import java.util.*;
 
-public class Problem3 {
+/**
+ * 
+ * @author gouravrusiya
+ *
+ */
+public class p003 {
 	
 	public static void main(String[] args){
 		long startTime = System.currentTimeMillis();
