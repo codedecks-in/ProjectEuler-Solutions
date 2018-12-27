@@ -1,10 +1,10 @@
 # Project Euler solutions
 
-A collection of java code solution to the problems from
+                         This repository contains solutions to the problems from project euler
 
 # [Project Euler](https://projecteuler.net/archives)
 | ID |                                                          Desciption/Title                                                         |    Solution   |
-|:---:|:--------------------------------------------------------------------------------------------------------------------------:|:---------------:|
+|:---:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|
 |  2  | [Even Fibonacci numbers](https://projecteuler.net/problem=2)| [p002.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p002.java)
 |  3  | [Largest prime factor](https://projecteuler.net/problem=3)| [p003.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p003.java)
 |  4  | [Largest palindrome product](https://projecteuler.net/problem=4)| [p004.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p004.java)
