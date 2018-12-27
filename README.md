@@ -27,7 +27,7 @@ A collection of java code solution to the problems from
 |  37  | [Truncatable primes](https://projecteuler.net/problem=37)| [p037.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p037.java)
 |  39  | [Integer right triangles](https://projecteuler.net/problem=39)| [p039.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p039.java)
 |  40  | [Champernowne's constants](https://projecteuler.net/problem=40)| [p040.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p040.java)
-|  42  | [Champernowne's constants](https://projecteuler.net/problem=40)| [p040.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p040.java)
+|  42  | [Coded triangle numbers](https://projecteuler.net/problem=42)| [p042.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p042.java)
 |  45  | [Triangular, pentagonal, and hexagonal](https://projecteuler.net/problem=45)| [p045.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p045.java)
 |  48  | [Self powers](https://projecteuler.net/problem=48)| [p048.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p048.java)
 |  52  | [	Permuted multiples](https://projecteuler.net/problem=52)| [p052.java](https://github.com/GouravRusiya30/EulerProject/blob/master/p052.java)
